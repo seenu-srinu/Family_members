@@ -1,0 +1,26 @@
+.bg-container{
+    background-color:blueviolet;
+    height: 250wph;
+}
+.card-container{
+    text-align:left;
+}
+.mainheading{
+    text-align:center;
+    color:blanchedalmond;
+    padding-top:5px;
+}
+.heading{
+    font-size:20px;
+}
+.lastname{
+    margin-left:20px;
+    font-size:15px;
+}
+.firstname{
+    font-size:15px;
+}
+.para{
+    font-size: 20px;
+    font-family:"roboto";
+}
